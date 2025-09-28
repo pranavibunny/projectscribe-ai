@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+Thumbs.db
