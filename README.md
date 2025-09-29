@@ -160,4 +160,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Pranavi Katarapu**
 💼 Aspiring AI Engineer | Generative AI Enthusiast
-📌 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/your-username)
+📌 [LinkedIn](https://www.linkedin.com/in/pranavi-katarapu-317425384/) • [GitHub](https://github.com/pranavibunny)
