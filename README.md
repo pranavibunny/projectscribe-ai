@@ -141,11 +141,11 @@ assets
 
 ## 🔮 Future Improvements
 
-* Add support for multiple LLMs (OpenAI, Anthropic, etc.)
-* Automate Figma API integration (instead of manual plugin usage)
-* Multi-language BRD generation
-* Integration with Confluence for publishing BRDs
-* Create multiple isses in Jira for the project and assign to repective teams.
+Support multiple LLMs (OpenAI, Anthropic, etc.)
+Automate Figma API integration (no manual plugin needed)
+Generate BRDs in multiple languages
+Publish BRDs directly to Confluence
+Automatically create and assign multiple Jira issues to respective teams
 
 ---
 
