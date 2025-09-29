@@ -161,19 +161,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Pranavi Katarapu**
 💼 Aspiring AI Engineer | Generative AI Enthusiast
 📌 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/your-username)
-
-```
-
----
-
-⚡ This README does 3 important things:  
-1. Shows **professional documentation** skills.  
-2. Proves you understand **AI + product workflows** (BRD, Figma, Jira).  
-3. Has examples + demo sections so recruiters can **visualize your project quickly**.  
-
----
-
-Do you want me to also make a **Mermaid diagram** in the README that visually shows the flow:  
-`User Prompt → BRD → UI → Figma → Jira`? That really stands out to recruiters.
-```
-
