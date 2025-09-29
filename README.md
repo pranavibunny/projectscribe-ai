@@ -135,8 +135,7 @@ Create a shopping cart UI with product images, item names, quantity selector, pr
 
 ## 🎥 Demo
 
-![Demo GIF](assets/demo.gif)
-*(Replace with your screen recording of app usage)*
+assets
 
 ---
 
